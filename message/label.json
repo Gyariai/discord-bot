@@ -1,0 +1,13 @@
+{
+  "content": [
+    "0 message @user @rng",
+    "1 message @user @rng",
+    "2 message @user @rng",
+    "3 message @user @rng"
+  ],
+  "lastMsg": [
+    "The link is valid for a limited time, good luck! 0",
+    "The link is valid for a limited time, good luck! 1",
+    "The link is valid for a limited time, good luck! 2"
+  ]
+}
